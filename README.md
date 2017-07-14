@@ -1,7 +1,4 @@
-# php-skeleton
-A repo for basic php project starter kit
-
-![Logo of the project](https://raw.githubusercontent.com/wearehive/project-guidelines/master/logo.sample.png)
+![Logo of the project](https://raw.githubusercontent.com/dhwlm/php-skeleton/master/assets/images/content/read-me-php-boilerplate.png)
 
 # php-skeleton
 > A basic php project starter kit
