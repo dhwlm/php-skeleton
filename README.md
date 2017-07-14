@@ -34,9 +34,9 @@ This will create a folder with \<your-project-name> and all the starter files yo
 |-templates
   |-header.php
   |-footer.php
- index.php
- LICENSE
- README.md
+|-index.php
+|-LICENSE
+|-README.md
  ```
 
 ### config
