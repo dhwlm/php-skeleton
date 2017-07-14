@@ -3,8 +3,8 @@ A repo for basic php project starter kit
 
 ![Logo of the project](https://raw.githubusercontent.com/wearehive/project-guidelines/master/logo.sample.png)
 
-# Name of the project
-> Additional information or tag line
+# php-skeleton
+> A basic php project starter kit
 
 A brief description of your project, what it is used for.
 
@@ -14,10 +14,10 @@ A quick introduction of the minimal setup you need to get a hello world up &
 running.
 
 ```shell
-commands here
+git clone https://github.com/dhwlm/php-skeleton.git <your-project-name>
 ```
 
-Here you should say what actually happens when you execute the code above.
+This will create a folder with <your-project-name> and all the starter files you require inside it.
 
 ## Developing
 
