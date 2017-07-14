@@ -19,27 +19,23 @@ git clone https://github.com/dhwlm/php-skeleton.git "<your-project-name>"
 
 This will create a folder with \<your-project-name> and all the starter files you require inside it.
 
-## Developing
+## Contents
 
-### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
+### config
 
-### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
+#### config.php
+some description
 
+#### database.php
+some description
 
-### Setting up Dev
+### Templates
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
+#### header.php
+some description
 
-```shell
-git clone https://github.com/your/your-project.git
-cd your-project/
-packagemanager install
-```
-
-And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
+#### footer.php
+some description
 
 ### Building
 
