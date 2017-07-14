@@ -62,3 +62,5 @@
    *
    * ENTER DESCRIPTION
    */
+
+  .credit-link{position: fixed; display: block; left: 0; bottom: 0; font-size: 11px; padding: 0px 5px 0px 5px; color: #666;}
