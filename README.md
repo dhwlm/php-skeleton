@@ -18,6 +18,7 @@ This will create a folder with \<your-project-name> and all the starter files yo
 
 ## Contents
 
+```shell
 |-assets
   |-css
     |-stylesheet.css
@@ -36,6 +37,7 @@ This will create a folder with \<your-project-name> and all the starter files yo
  index.php
  LICENSE
  README.md
+ ```
 
 ### config
 
