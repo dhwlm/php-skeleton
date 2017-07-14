@@ -18,6 +18,25 @@ This will create a folder with \<your-project-name> and all the starter files yo
 
 ## Contents
 
+|-assets
+  |-css
+    |-stylesheet.css
+  |-images
+    |-content
+    |-layout
+  |-js
+    |-common.js
+|-config
+  |-config.php
+  |-database.php
+  |-session.php
+|-templates
+  |-header.php
+  |-footer.php
+ index.php
+ LICENSE
+ README.md
+
 ### config
 
 #### config.php
