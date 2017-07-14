@@ -1,0 +1,64 @@
+/**
+ * Table of Contents
+ *
+ * 1.0 - Reset
+ * 2.0 - Custom Reset
+ *
+ *
+ *
+ *
+ *
+ *
+ */
+
+
+ /**
+  * 1.0 - Reset
+  *
+  */
+
+ html { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; font-size: 62.5%; 	overflow-y: scroll;	-webkit-text-size-adjust: 100%;	-ms-text-size-adjust: 100%; }
+ body { background: #f1f1f1;}
+ article, aside, details, figcaption, figure, footer, header, main, nav, section { 	display: block; }
+ ol, ul { 	list-style: none; }
+ table { 	border-collapse: separate; 	border-spacing: 0; }
+ caption, th, td { 	font-weight: normal; 	text-align: left; }
+ fieldset { 	min-width: inherit; }
+ blockquote:before, blockquote:after, q:before, q:after { 	content: ""; }
+ blockquote, q { 	-webkit-hyphens: none; 	-moz-hyphens: none; 	-ms-hyphens: none; 	hyphens: none; 	quotes: none; }
+ a:focus { 	/*outline: 2px solid #c1c1c1;*/ 	/*outline: 2px solid rgba(51, 51, 51, 0.3);*/ }
+ a:hover, a:active { 	outline: 0; }
+ a img { 	border: 0; }
+
+
+ /**
+  * 2.0 - Custom Reset
+  *
+  * Custom reset for sitebased structures colors etc
+  */
+  .mt-10{margin-top:10px}.mb-10{margin-bottom:10px}.mt-20{margin-top:20px}.mb-20{margin-bottom:20px}.mt-30{margin-top:30px}.mb-30{margin-bottom:30px}.mt-40{margin-top:40px}.mb-40{margin-bottom:40px}.mt-50{margin-top:50px}.mb-50{margin-bottom:50px}.mt-60{margin-top:60px}.mb-60{margin-bottom:60px}.mt-70{margin-top:70px}.mb-70{margin-bottom:70px}.mt-80{margin-top:80px}.mb-80{margin-bottom:80px}.mt-90{margin-top:90px}.mb-90{margin-bottom:90px}.mt-100{margin-top:100px}.mb-100{margin-bottom:100px}
+
+  p{}
+
+  .no-bord{ border: none !important; }
+  .no-mar{  margin: 0 !important; }
+  .text-color{ color: #e74c3c; }
+  .force-color{ color: #e74c3c; }
+  ::-moz-selection {  background: rgba(255, 101, 70, 0.2); }
+  ::selection { background: rgba(255, 101, 70, 0.2); }
+
+  html{
+     min-height:100%;/* make sure it is at least as tall as the viewport */
+     position:relative;
+  }
+
+  body{
+     height:100%; /* force the BODY element to match the height of the HTML element */
+  }
+
+
+  /**
+   * 3.0 - WHATEVER CSS
+   *
+   * ENTER DESCRIPTION
+   */
