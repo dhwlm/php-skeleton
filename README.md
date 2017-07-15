@@ -38,6 +38,13 @@ This will create a folder with 'your-project-name' and the boilerplate files ins
 |-README.md
  ```
 
-## Licensing
+ For now, I've included Bootstrap CSS, Bootstrap Theme, Bootstrap JS, FontAwesome & jQuery.
 
+## About the Author
+This PHP Skeleton/Boilerplate is created and maintained by [Dhawal Mehta](http://dhawalmehta.com).
+
+### Disclaimer
+This PHP Skeleton/Boilerplate has been made taking in consideration my personal usage and also it is in active development. I would appreciate any suggestions that will help me to enhance this project.
+
+## Licensing
 MIT License :p
