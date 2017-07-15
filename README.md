@@ -3,18 +3,17 @@
 # php-skeleton
 > A basic php project starter kit
 
-A brief description of your project, what it is used for.
+I found myself writing the same project boilerplate time and time again, so I decided to create this simple boilerplate to help reduce the time required when starting a new piece of code. This will give you the basic files, and will let you develop small apps easily.
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+Download the boilerplate
 
 ```shell
-git clone https://github.com/dhwlm/php-skeleton.git "<your-project-name>"
+git clone https://github.com/dhwlm/php-skeleton.git your-project-name
 ```
 
-This will create a folder with \<your-project-name> and all the starter files you require inside it.
+This will create a folder with 'your-project-name' and the boilerplate files inside it. Then edit the config.php file to set your own project meta information.
 
 ## Contents
 
@@ -38,29 +37,6 @@ This will create a folder with \<your-project-name> and all the starter files yo
 |-LICENSE
 |-README.md
  ```
-
-### config
-
-#### config.php
-some description
-
-#### database.php
-some description
-
-
-
-### Templates
-
-#### header.php
-some description
-
-#### footer.php
-some description
-
-
-## References
-
-
 
 ## Licensing
 
