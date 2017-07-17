@@ -47,4 +47,4 @@ This PHP Skeleton/Boilerplate is created and maintained by [Dhawal Mehta](http:/
 This PHP Skeleton/Boilerplate has been made taking in consideration my personal usage and also it is in active development. I would appreciate any suggestions that will help me to enhance this project.
 
 ## Licensing
-MIT License :p
+(https://dhawal.mit-license.org/)[https://dhawal.mit-license.org/]{:target="_blank"}
